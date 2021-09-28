@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hi There, My Name is Johnson, But you can call me Jay_Always_Codes
+Hi There, My Name is Johnson, But you can call me Jay_Always_Codes.
+
 JayAlwaysCodes is excited in contributing in projects that is aimed towards advancement of technology
 
 
