@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Simeon Offiong
+Software Developer • Solidity • he/him
+🌍 I based in Nigeria
+✉️ You can contact me at johnsonjardocs@gmail.com
+🧠 I'm learning the Web3 Stack
+🤝 I'm open to collaborating on BlockChain projects
 
-Hi There, My Name is Johnson, But you can call me Jay_Always_Codes.
+📶 Stats:
 
-JayAlwaysCodes is excited about contributing in projects that is aimed towards advancement of technology
+Top Langs
+🌱 Profile Views        visitors
 
+My github stats
 
+GitHub Streak
+simicodes's github activity graph
+Skills
+HTML5 CSS3 JavaScript PHP MYSQL SOLIDITY FOUNDRY PYTHON 
 
-- 🔭 I’m currently working on developing my technical strength and abilities
-- 🌱 I’m currently learning JavaScript, Php and Python
-- 👯 I’m looking to collaborate on more open source projects
-- 💬 Ask me about crypto and Blockchain Tech
-- 📫 How to reach me: johnsonjardocs@gmail.com
-- 😄 Pronouns: him/he
-- ⚡ Fun fact: i like new discoveries in tech world
-
+Socials
+  
