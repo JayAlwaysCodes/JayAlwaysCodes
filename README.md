@@ -39,6 +39,7 @@ src="https://img.shields.io/twitter/follow/JayAlwaysCodes?logo=twitter&style=for
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mysql" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="solidity" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="rust" />
 
 </p>
 <hr>
