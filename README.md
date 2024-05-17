@@ -1,6 +1,6 @@
 Hi 👋 My name is Johnson Ikechukwu
 ========================
-Software Developer • Solidity • he/him
+Software Developer • Blockchain • he/him
 ----------------------------------
 
 * 🌍  I based in Nigeria
