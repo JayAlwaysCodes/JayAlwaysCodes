@@ -6,7 +6,7 @@ Software Developer • Blockchain • he/him
 * 🌍  I based in Nigeria
 * ✉️  You can contact me at [johnsonikechukwu525@gmail.com](mailto:johnsonikechukwu525@gmail.com)
 * 🧠  I'm learning the WEB3 Stack
-* 🤝  I'm open to collaborating on BlockChain projects
+* 🤝  I'm open to collaborating on projects
 
 <a href="https://www.twitter.com/Johnson__Cipher" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JayAlwaysCodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
