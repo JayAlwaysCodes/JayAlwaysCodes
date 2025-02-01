@@ -47,21 +47,7 @@
 
 ---
 
-### 🚀 Latest Projects
 
-<!-- Add your latest projects here with links -->
-- [Project 1](https://github.com/JayAlwaysCodes/project1) - A brief description of the project.  
-- [Project 2](https://github.com/JayAlwaysCodes/project2) - A brief description of the project.  
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- Add your latest blog posts here with links -->
-- [Blog Post 1](https://yourblog.com/post1) - A brief description of the post.  
-- [Blog Post 2](https://yourblog.com/post2) - A brief description of the post.  
-
----
 
 ### 💬 Quote of the Day
 
